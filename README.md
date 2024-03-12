@@ -13,3 +13,9 @@ Transforming raw coffee distribution data into actionable insights involves a st
 
  
 ![architecture](https://github.com/shreya-maher/AWS-CoffeeInsight/assets/113787713/1ceebd43-b285-4785-b9f9-8386be4f7fb7)
+
+**Dataset:** https://www.kaggle.com/datasets/parasrupani/coffee-distribution-across-94-counties?resource=download
+
+**About Dataset**: This dataset is generated from USDA - United States Department of Agriculture consisting of coffee production, supply, and distribution
+- Consists of 94 countries.
+- Years taken into consideration: 1960-2023
