@@ -11,7 +11,5 @@ Transforming raw coffee distribution data into actionable insights involves a st
 
   **4. Insight Generation:** Utilize Amazon QuickSight to query the prepared data and create visualizations, facilitating the discovery of insights into coffee distribution trends and performance metrics.
 
-
-
-
  
+![architecture](https://github.com/shreya-maher/AWS-CoffeeInsight/assets/113787713/1ceebd43-b285-4785-b9f9-8386be4f7fb7)
