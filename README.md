@@ -19,3 +19,5 @@ Transforming raw coffee distribution data into actionable insights involves a st
 **About Dataset**: This dataset is generated from USDA - United States Department of Agriculture consisting of coffee production, supply, and distribution
 - Consists of 94 countries.
 - Years taken into consideration: 1960-2023
+
+**Blog:** https://medium.com/@shreya.maher/unveiling-coffee-distribution-insights-with-aws-a-step-by-step-guide-8bd76cf4c660
